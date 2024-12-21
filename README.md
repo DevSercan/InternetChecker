@@ -1,4 +1,4 @@
-[![requests](https://img.shields.io/pypi/v/requests)](https://pypi.org/project/requests/)
+[![requests](https://img.shields.io/pypi/v/requests?label=Requests)](https://pypi.org/project/requests/)
 
 # InternetChecker
 
